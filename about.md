@@ -7,6 +7,4 @@ permalink: /about/
 Formando y probando
 
 
-### Contact me
-
-[hugo.blanco.82.hb@gmail.com](mailto:hugo.blanco.82.hb@gmail.com)
+[contacta conmigo](mailto:hugo.blanco.82.hb@gmail.com)
