@@ -4,6 +4,8 @@ title: Sobre mí
 permalink: /about/
 ---
 
+![MIT]({{site.baseurl}}/images/MIT_Prefessional_Education-1.jpg)
+
 Formando y probando
 
 
