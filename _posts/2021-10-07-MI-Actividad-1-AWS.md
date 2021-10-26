@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actividad I - Creación de una página web en AWS
+title: Módulo I Actividad I - Creación de una página web en AWS
 ---
 
 ## 1.	Imagen de la web en funcionamiento dónde se vea la URL del navegador
