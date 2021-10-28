@@ -5,7 +5,7 @@ title: Módulo IV Actividad 4 - CircleCI y Github
 
 ### 1.	Imagen que muestre su nombre de usuario de Github
 
-![Usuario GitHub]({{site.baseurl}}/images/Captura1.jpg)
+![Usuario GitHub]({{site.baseurl}}/images/captura1.jpg)
 
 ### 2.	Imagen de Github donde se visualice el repositorio resultante del Fork (Paso 1).
 
