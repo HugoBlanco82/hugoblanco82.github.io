@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actividad 6: Creación de aplicaciones mediante AWS Lambda y DynamoDB
+title: Creación de aplicaciones mediante AWS Lambda y DynamoDB
 ---
 
 ### 1.	Evidencias de la creación del grupo y el usuario de AWS IAM (Fase de requerimientos)
