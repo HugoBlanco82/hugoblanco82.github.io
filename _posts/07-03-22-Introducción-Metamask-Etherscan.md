@@ -106,3 +106,10 @@ Respuesta: $1,50
 
 Respuesta: El tiempo medio de bloque en la red Ethereum es entre 13 y 15 segundos.
  
+![10-Block-time-ETH](https://user-images.githubusercontent.com/87420563/156944886-6542183d-a88f-44cd-9494-9449a4e0afe5.JPG)
+
+
+### 15.	Tras un incremento estable en el tiempo entre bloques, las dos fechas con descensos abruptos son el 16 de octubre de 2017 y el 28 de febrero de 2019. Investigue esas tres fechas en el historial de Ethereum. ¿Por qué son importantes? ¿Qué hizo que hubiera un incremento y, de repente, un descenso en el tiempo entre bloques?  
+
+Respuesta: El 16 de octubre de 2017 y 28 de febrero de 2019 se lanzaron las actualizaciones Byzantium y Constantinopla respectivamente. Ambas actualizaciones fueron muy esperadas y temidas entre los mineros que trabajan en la red Ethereum. Ambas actualizaciones fueron un éxito, pero supusieron en ambos casos un gran incremento en el tiempo entre bloques de la red antes del lanzamiento definitivo de las actualizaciones. 
+
